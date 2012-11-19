@@ -1,1 +1,7 @@
-.settingseclipsetarget.classpath.project*.iml.ideatarget
+.settings
+eclipse
+target
+.classpath
+.project
+*.iml
+.idea
